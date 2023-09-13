@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\THWeb_Bai1.props" />
+</Project>
